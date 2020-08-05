@@ -1,5 +1,5 @@
 import React from "react";
-import {Direction} from "./direction";
+import {Direction} from "../direction/direction";
 import styles from "./table.module.css";
 
 export class Table extends React.Component {

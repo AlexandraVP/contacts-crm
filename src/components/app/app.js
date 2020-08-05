@@ -1,5 +1,5 @@
 import React, {Component} from "react";
-import TableWithControls from "./table-with-controls";
+import TableWithControls from "../table/table-with-controls";
 
 const dataCache = {
     small: null,
